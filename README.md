@@ -1,6 +1,6 @@
 # README - Cryptraider
 
-![In game footage](https://www.youtube.com/watch?v=pDw9dQcOCzo&ab_channel=mahmudesadtutar)
+[In game footage](https://www.youtube.com/watch?v=pDw9dQcOCzo&ab_channel=mahmudesadtutar)
 
 Cryptraider is a dungeon-themed puzzle game developed using Unreal Engine 5.1. This README file provides an overview of the game mechanics, features, and what the developer learned from the project.
 
