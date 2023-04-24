@@ -36,7 +36,3 @@ Developing this game provided valuable experience and knowledge, including:
 - **C++ Programming:** The developer gained experience using C++ to create game logic and improve code efficiency and performance.
 - **Modular Level Design:** The developer learned about modular level design and how to create environments that are easy to create and modify.
 - **Lighting with Lumen:** The developer learned about Lumen and how to use it to create high-quality lighting in real-time.
-
-## Conclusion
-
-Developing this game provided the developer with valuable experience using Unreal Engine 5.1, game mechanics, C++ programming, modular level design, and lighting with Lumen.
