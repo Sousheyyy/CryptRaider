@@ -39,4 +39,4 @@ Developing this game provided valuable experience and knowledge, including:
 
 ## Conclusion
 
-Cryptraider is a dungeon-themed puzzle game developed using Unreal Engine 5.1. The game features modular level design, lighting with Lumen, and line tracing and collisions. Developing this game provided the developer with valuable experience using Unreal Engine 5.1, game mechanics, C++ programming, modular level design, and lighting with Lumen.
+Developing this game provided the developer with valuable experience using Unreal Engine 5.1, game mechanics, C++ programming, modular level design, and lighting with Lumen.
